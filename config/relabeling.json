@@ -1,0 +1,18 @@
+{
+  "algs": {
+    "noisy baseline": 1,
+    "clean baseline": 1,
+    "passive relabeling": 1,
+    "uncertainty relabeling": 1,
+    "weighted uncertainty relabeling": 1,
+    "robust uncertainty relabeling": 0,
+    "robust ml weighted uncertainty relabeling": 1,
+    "robust em weighted uncertainty relabeling": 1,
+    "robust map weighted uncertainty relabeling": 1,
+    "robust ub weighted uncertainty relabeling": 1,
+    "uncertainty sampling": 1,
+    "robust ml uncertainty relabeling": 0,
+    "robust em uncertainty relabeling": 0,
+    "robust map uncertainty relabeling": 0
+  }
+}

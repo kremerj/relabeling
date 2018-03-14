@@ -1,0 +1,41 @@
+{
+  "rho": {
+    "dataset": {"n_burnin": 50, "n_repeat": 30, "n_sample": 1000, "noise_rate": [0.2, 0.1], "kappa": 0.5},
+    "solver": {"C": 1.0}
+  },
+
+  "C": {
+    "dataset": {"n_burnin": 50, "n_repeat": 30, "n_sample": 1000, "noise_rate": [0.3, 0.1], "kappa": 0.5},
+    "solver": {"C": 0.1}
+  },
+
+  "burnin": {
+    "dataset": {"n_burnin": 0, "n_repeat": 30, "n_sample": 1000, "noise_rate": [0.3, 0.1], "kappa": 0.5},
+    "solver": {"C": 1.0}
+  },
+
+  "kappa": {
+    "dataset": {"n_burnin": 50, "n_repeat": 30, "n_sample": 1000, "noise_rate": [0.3, 0.1], "kappa": 0.1},
+    "solver": {"C": 1.0}
+  },
+
+  "std": {
+    "dataset": {"n_burnin": 50, "n_repeat": 30, "n_sample": 1000, "noise_rate": [0.3, 0.1], "kappa": 0.5},
+    "solver": {"C": 1.0}
+  },
+
+  "test": {
+    "dataset": {"n_burnin": 50, "n_repeat": 30, "n_sample": 1000, "noise_rate": [0.3, 0.1], "kappa": 0.5},
+    "solver": {"C": 1.0}
+  },
+
+  "unbiased": {
+    "dataset": {"n_burnin": 50, "n_repeat": 30, "n_sample": 1000, "noise_rate": [0.3, 0.1], "kappa": 0.5},
+    "solver": {"C": 1.0}
+  },
+
+  "deep": {
+    "dataset": {"n_burnin": 64, "n_repeat": 10, "n_sample": 1024, "kappa": 0.5 },
+    "solver": {"model": "alexnet", "train_batch_size": 64, "test_batch_size": 100}
+  }
+}

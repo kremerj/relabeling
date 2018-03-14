@@ -1,0 +1,6 @@
+{
+    "warm_start": true,
+    "fit_intercept": true,
+    "solver": "lbfgs",
+    "C": 1.0
+}

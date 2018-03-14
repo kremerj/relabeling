@@ -1,0 +1,58 @@
+{
+  "algs": {
+    "noisy baseline": 1,
+    "clean baseline": 1,
+    "passive relabeling": 1,
+    "uncertainty relabeling": 1,
+    "weighted uncertainty relabeling": 1,
+    "robust uncertainty relabeling": 0,
+    "robust ml weighted uncertainty relabeling": 1,
+    "robust em weighted uncertainty relabeling": 1,
+    "robust map weighted uncertainty relabeling": 1,
+    "robust ub weighted uncertainty relabeling": 0,
+    "uncertainty sampling": 1,
+    "robust ml uncertainty relabeling": 0,
+    "robust em uncertainty relabeling": 0,
+    "robust map uncertainty relabeling": 0
+  },
+  
+  "algs_to_colors": {
+    "noisy baseline": "#be9f3c",
+    "clean baseline": "#9750a1",
+    "passive relabeling": "#6ca24d",
+    "uncertainty relabeling": "#6777cf",
+    "weighted uncertainty relabeling": "#46c19a",
+    "robust uncertainty relabeling": "#46c19a",
+    "robust ml weighted uncertainty relabeling": "#b55a39",
+    "robust em weighted uncertainty relabeling": "#bc496f",
+    "robust map weighted uncertainty relabeling": "#000000",
+    "uncertainty sampling": "#be9f3c",
+    "robust ub weighted uncertainty relabeling": "#9750a1",
+    "robust ml uncertainty relabeling": "#46c19a",
+    "robust em uncertainty relabeling": "#9750a1",
+    "robust map uncertainty relabeling": "#6ca24d"
+  },
+
+  "algs_to_labels": {
+    "noisy baseline": "noisy baseline",
+    "clean baseline": "clean baseline",
+    "passive relabeling": "random sampling",
+    "uncertainty relabeling": "uncertainty re-labeling",
+    "weighted uncertainty relabeling": "WURL",
+    "robust uncertainty relabeling": "R-URL",
+    "robust ml weighted uncertainty relabeling": "ML-WURL",
+    "robust ub weighted uncertainty relabeling": "U-WURL",
+    "robust em weighted uncertainty relabeling": "EM-WURL",
+    "robust map weighted uncertainty relabeling": "MAP-WURL",
+    "uncertainty sampling": "uncertainty sampling",
+    "robust ml uncertainty relabeling": "ML-URL",
+    "robust em uncertainty relabeling": "EM-URL",
+    "robust map uncertainty relabeling": "MAP-URL"
+  },
+  
+  "style": {
+    "range": 1000,
+    "fontsize": 12,
+    "ticksize": 12
+  }
+}

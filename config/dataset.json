@@ -1,0 +1,41 @@
+{
+  "ijcnn1": {
+    "n_train": 2000,
+    "n_test": 5000
+  },
+
+  "mushrooms": {
+    "n_train": 2000,
+    "n_test": 5000
+  },
+
+  "covtype": {
+    "n_train": 2000,
+    "n_test": 5000
+  },
+
+  "a1a": {
+    "n_train": 2000,
+    "n_test": 5000
+  },
+
+  "w1a": {
+    "n_train": 2000,
+    "n_test": 5000
+  },
+
+  "ad": {
+    "n_train": 2000,
+    "n_test": 359
+  },
+
+  "cod-rna": {
+    "n_train": 2000,
+    "n_test": 5000
+  },
+
+  "baidu": {
+    "n_train": 2048,
+    "n_test": 2000
+  }
+}
