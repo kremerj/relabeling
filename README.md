@@ -2,7 +2,7 @@
 
 This is the code repository complementing the paper
 
-Jan Kremer, Fei Sha, and Christian Igel. Robust Active Label Correction. *PMLR: Volume 84 (AISTATS)*, 2018
+Jan Kremer, Fei Sha, and Christian Igel. [Robust Active Label Correction](http://proceedings.mlr.press/v84/kremer18a.html). *PMLR: Volume 84 (AISTATS)*, 2018
 
 ```
 @inproceedings{Kremer18,
